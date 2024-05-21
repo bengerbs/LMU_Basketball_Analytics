@@ -1,4 +1,4 @@
-![LMU Basketball Logo](https://github.com/bengerbs/LMU_Basketball_Analytics/assets/123483802/7228ee6d-9335-4ebe-9abc-60664e9985e1)
+![LMU Basketball Logo](https://github.com/bengerbs/LMU_Basketball_Analytics/assets/123483802/352ccd3f-716f-43ab-9192-3cb23a77e2ab)
 
 # LMU Basketball Analytics
 
