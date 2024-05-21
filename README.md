@@ -1,1 +1,1 @@
-# LMU_Basketball_Analytics
+# LMU Basketball Analytics
