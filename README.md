@@ -2,7 +2,7 @@
 
 # LMU Basketball Analytics
 
-This repository includes a few examples of video and analytics integration I helped to create. These examples were for analyzing practice film and stats as well as 
+This repository is a little peek into some of the work I have done for LMU Basketball. Film review is a very important part of basketball and the level of film analysis continues to grow constantly. 
 
 Here is the [**link**](https://www.dropbox.com/scl/fi/u0qiq003uroxwgrrhvo5t/Game-Analytics.mp4?rlkey=luv51eob4xyk8agkql2iocxcj&st=u9kjqcts&dl=0) to the Game Analytics video
 
