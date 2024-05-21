@@ -2,6 +2,6 @@
 
 # LMU Basketball Analytics
 
-This repository includes a few examples of the 
+This repository includes a few examples of video and analytics integration I helped to create. These examples were for analyzing practice film and stats as well as 
 
 Here is the [**link**](https://www.dropbox.com/scl/fi/u0qiq003uroxwgrrhvo5t/Game-Analytics.mp4?rlkey=luv51eob4xyk8agkql2iocxcj&st=u9kjqcts&dl=0) to the Game Analytics video
