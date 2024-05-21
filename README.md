@@ -6,9 +6,9 @@ This repository is a little peek into some of the work I have done for LMU Baske
 
 This film and analytics project aims to bridge the gap between film and analytics analysis leading to both areas being more effective when used together. The project uses the software [**Hudl SportsCode**](https://www.hudl.com/products/sportscode). 
 
-![Hudl Sportscode](https://github.com/bengerbs/LMU_Basketball_Analytics/assets/123483802/eb21ac82-d940-4a37-a719-be62e79be757)
+![sportscode-cover](https://github.com/bengerbs/LMU_Basketball_Analytics/assets/123483802/afee69e9-c52a-4a87-a9b8-b8c4fce0e691)
 
-![sportscode-cover](https://github.com/bengerbs/LMU_Basketball_Analytics/assets/123483802/c3bf1dbf-a29d-4c45-86d4-cb0d7c9aecac)
+SportsCode is used as a video tool for various sports and is the main video organizational tool for every high level basketball team at the college or professional level. Although most basketball teams use it at a very basic level, we tried to break from the rest in our utilization of SportsCode. 
 
 What has been done here, though, is very advanced compared to the rest of the basketball world at any level, professional or college. 
 
