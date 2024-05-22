@@ -24,4 +24,4 @@ The two files in the GitHub repository show the applications of these code windo
 - [**Practice Analytics**](https://www.dropbox.com/scl/fi/3hpzcpyrc9yzyu4t0kqhw/Practice-Analytics.mp4?rlkey=qrgf6tffwr9marijjo5z2mjlx&st=vctzzbna&dl=0)
 - [**Game Analytics**](https://www.dropbox.com/scl/fi/u0qiq003uroxwgrrhvo5t/Game-Analytics.mp4?rlkey=luv51eob4xyk8agkql2iocxcj&st=u9kjqcts&dl=0)
 
-These videos are just the some images and videos of the final products, so if you would like to see the code behind these output windows, feel free to reach out to me.
+These videos are just the some images and videos of the final products as I am unable to upload the actual code for this project. So if you would like to see the code behind these output windows feel free to reach out to me.
