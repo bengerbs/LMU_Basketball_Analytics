@@ -8,7 +8,7 @@ This film and analytics project aims to bridge the gap between film and analytic
 
 ![sportscode-cover](https://github.com/bengerbs/LMU_Basketball_Analytics/assets/123483802/afee69e9-c52a-4a87-a9b8-b8c4fce0e691)
 
-SportsCode is used as a video tool for various sports and is the main video organizational tool for every high level basketball team at the college or professional level. Although most basketball teams use it at a very basic level, we tried to break from the rest in our utilization of SportsCode. We utilized the "Code Window" feature in SportsCode to do so. The code windows in sportscode are fully customizable, where everything can be coded in the SportsCode language (very similar to most) to do different things. For us, here are a few of the different things we were able to create valuable output windows that displayed different key statistics at both the team and individual levels:
+SportsCode is used as a video tool for various sports and is the main video organizational tool for every high level basketball team at the college or professional level. Although most basketball teams use it at a very basic level, we tried to break from the rest in our utilization of SportsCode. We utilized the "Code Window" feature in SportsCode to do so. The code windows in sportscode are fully customizable, where everything can be coded in the SportsCode language (very similar to most) to do different things. Here are a few of the different things we were able to create via output windows that displayed valuable key statistics at both the team and individual levels:
 - Individual and Team Statistics
 - Shot Charts
 - Pace Analysis
